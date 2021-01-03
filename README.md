@@ -1,6 +1,7 @@
 # react-native-review-movie-app
 
-<img src="1.png"/>
-<img src="2.png"/>
-<img src="3.png"/>
-<img src="4.png"/>
+App de review de filme feito com react native, api usada é themoviedb
+<img src="1.png" width="260"/>
+<img src="2.png"  width="260"/>
+<img src="3.png"  width="260"/>
+<img src="4.png"  width="260"/>
